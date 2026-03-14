@@ -37,6 +37,7 @@ Phase One is focused on building a rock-solid foundation for organic growth. The
 
 *   **Audience Definition:** Identifying and fully defining the highest-intent user Personas (e.g., "The Active Learner").
 *   **App Store Optimization (ASO):** Creating a core keyword strategy focused on head terms, long-tail intent, and competitor conquesting.
+*   **Deepsearching the App Store Presence:** Scanning, indexing, and thoroughly auditing our app's organic positioning, visibility, and keyword footprint within the App Store to adjust the metadata scripts effectively.
 *   **Marketing Roadmap Generation:** Charting out specific pathways for localization, content marketing, and community engagement.
 *   **Apple Search Ads (ASA) Structuring:** Designing a scalable 4-campaign structure (Brand, Generic, Competitor, Discovery) to capture high-intent users efficiently.
 *   **Generative Engine Optimization (GEO):** Establishing tactics to build a "semantic web presence" for AI RAG pipelines.
@@ -48,7 +49,6 @@ Phase One is focused on building a rock-solid foundation for organic growth. The
 Phase Two transitions from strategy creation to technical implementation. The core intents here are to build tools and workflows that execute the Phase One strategies through manual runs and scheduled automations:
 
 *   **ASO Metadata Execution:** Utilizing Python scripts interfacing with LLM APIs to manually localize and generate Apple App Store metadata on demand, rather than dynamically on the fly.
-*   **Deepsearching the App Store Presence:** Scanning, indexing, and thoroughly auditing our app's organic positioning, visibility, and keyword footprint within the App Store to adjust the metadata scripts effectively.
 *   **Automated Content Pipelines:**
     *   Building a "Word of the Day" pipeline that automatically generates 15-second video scripts using LLMs and accompanying visuals (DALL-E/Midjourney).
     *   Automating weekly test-prep or vocabulary threads for X/Twitter and Reddit.
