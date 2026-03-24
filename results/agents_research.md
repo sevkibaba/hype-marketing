@@ -61,11 +61,26 @@ uv sync
 **Açıklama:** Swarms framework üzerine inşa edilmiş, multi-platform marketing content oluşturan AI agentları için şablon. Alex Hormozi'nin high-ticket offer framework'lerini kullanıyor.
 
 **Özellikler:**
-- 10+ specialized marketing agent (Instagram, LinkedIn, Twitter, Email, TikTok)
+- 10+ specialized marketing agent
 - Hormozi-style high-ticket offer frameworks
-- Platform-specific content strategies
-- Automated content generation
-- Value-first marketing approach
+- Automated content generation ve Value-first marketing approach
+
+**Ajanlar ve Yetenekleri:**
+1. **Instagram Content Strategy Agent**
+   - Kaydırmalı gönderiler (Carousel posts), hikaye serileri (Story sequences), Reels video senaryoları ve profil (Bio) optimizasyonu hazırlar.
+   - *Detay:* Görsel ağırlıklı olduğu için DALL-E, Midjourney gibi görsel/video üretim süreçlerine doğrudan bağlanacak detaylı promptlar üretecek şekilde kurgulanması etkileşimi maksimize eder.
+2. **LinkedIn Authority Builder Agent**
+   - Fikir liderliği/odaklı içerikler (Thought leadership), vaka çalışması gönderileri (Case study) ve B2B dönüşüm çerçeveleri yazar.
+   - *Detay:* Hedef kitlenin profesyoneller olduğunu ön planda tutarak (Örn. B2B Trade Atlas listesi için) samimi ancak kurumsal bir "storytelling" tonunu kullanır.
+3. **TikTok Viral Content Agent**
+   - Kanca (Hook) bazlı içerikler, kalıp/ezber bozan kurgular (Pattern interrupts) ve öncesi-sonrası gösterimleri (Transformation showcases) oluşturur.
+   - *Detay:* İlk 3 saniyede izleyiciyi kilitleme (Hook-Retention) üzerine uzmanlaşmıştır ve platformdaki popüler ses trendlerine uygun metinler hazırlar.
+4. **Email Newsletter Conversion Agent**
+   - Hoş geldin serileri (Welcome sequences), besleme kampanyaları (Nurture campaigns), satış e-postaları ve yeniden etkileşime geçirme (Re-engagement) mailleri yazar.
+   - *Detay:* Sadece e-posta gövdesini değil, platform bazlı açılma oranlarını (Open Rate) artırmak için A/B testi yapılabilecek kışkırtıcı "Subject" (Konu) satırları da üretir.
+5. **Twitter Thread Mastery Agent**
+   - Eğitici konu akışları (Educational threads), otorite inşası ve etkileşim optimizasyonlu (Engagement optimization) tweet serileri hazırlar.
+   - *Detay:* Algoritmanın ileti dizilerinde çok fazla kaydırma süresi geçirttiği bilgisini kullanarak karmaşık konuları ilgi çekici, aşamalı "cliffhanger" bilgi parçacıklarına bölme konusunda ustadır.
 
 **Kullanım:**
 ```bash
@@ -81,8 +96,8 @@ python3 main.py
 
 ## 4. Agents4Marketing (9 ⭐)
 
-**Repo:** [TheCMOAI/Agents4Marketing](https://github.com/TheCMOAI/Agents4Marketing)
-
+**Repo:** 
+[TheCMOAI/Agents4Marketing](https://github.com/TheCMOAI/Agents4Marketing)
 **Açıklama:** Production-grade AI marketing agents for Claude Code. 10 farklı marketing agent, paylaşılan knowledge base, 15 industry vertical ve situational playbooks içeriyor.
 
 **Özellikler:**

@@ -1,5 +1,7 @@
 # Word Hype Marketing 🚀
 
+TEST
+
 This repository houses the strategies, code, and executed tasks for automating the marketing and user acquisition pipeline for **Word Hype**. We use an intelligent Agentic approach to rapidly structure, generate, and execute marketing workflows, transforming app ideas into systematic growth engines.
 
 ---
